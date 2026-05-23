@@ -1,2 +1,7 @@
-# Profile
-This repository is about personal information for my profile.
+# Hi 👋
+
+💻 Developer  
+🚀 Building and learning
+
+## Tech
+Python • JavaScript
